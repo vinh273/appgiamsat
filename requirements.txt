@@ -1,5 +1,4 @@
-ultralytics
-streamlit
+streamlit==1.32.0
 pillow
 opencv-python-headless
-
+ultralytics
